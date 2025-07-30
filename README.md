@@ -38,7 +38,7 @@ git push origin master
 
 ## Deliverables
 
-- Downloaded notebooks with your responses to each of the exercises.
+- `main.ipynb` with your responses.
 
 ## Submission
 
